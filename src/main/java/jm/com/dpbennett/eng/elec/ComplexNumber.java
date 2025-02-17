@@ -1,5 +1,5 @@
 
-package jm.com.dpbennett.eng.mech;
+package jm.com.dpbennett.eng.elec;
 
 //import org.apache.commons.numbers.core
 
